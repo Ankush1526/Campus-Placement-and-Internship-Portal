@@ -34,7 +34,7 @@ if (USE_LOCAL_DB) {
 
 const app = express();
 const PORT = process.env.PORT || 5050;
-const HOST = process.env.HOST || '127.0.0.1';
+const HOST = process.env.HOST || '0.0.0.0';
 const JWT_SECRET = process.env.JWT_SECRET || 'change_me_in_env';
 const MONGODB_URI = process.env.MONGODB_URI || process.env.MONGO_URI || 'mongodb://localhost:27017/placementhub';
 const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'ankushdubey111111@gmail.com';
