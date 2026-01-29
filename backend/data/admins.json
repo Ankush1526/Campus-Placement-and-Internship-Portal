@@ -1,0 +1,18 @@
+[
+  {
+    "email": "ankushdubey1016@gmail.com",
+    "password": "$2a$10$zg14iJkmgvZmH7eQB4iBwuWrb4ieUpEilVbUHHIpzr67KL8o5TsZa",
+    "fullName": "Admin",
+    "userType": "admin",
+    "role": "super_admin",
+    "permissions": {
+      "manageUsers": true,
+      "manageApplications": true,
+      "manageContent": true,
+      "viewAnalytics": true
+    },
+    "_id": "0701958371f0619b65350119",
+    "createdAt": "2025-12-28T13:45:31.161Z",
+    "updatedAt": "2025-12-28T13:45:31.161Z"
+  }
+]

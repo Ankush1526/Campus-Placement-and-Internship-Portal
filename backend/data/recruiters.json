@@ -1,0 +1,13 @@
+[
+  {
+    "email": "ankush1@gmail.com",
+    "password": "$2a$10$3PnAoLTW/bc1ti8L9MiofesND04w3QKlMdGQ8HOrfeJMLZG2.IQ2m",
+    "fullName": "HR",
+    "userType": "recruiter",
+    "companyName": "Goodiee",
+    "designation": "TP",
+    "_id": "df0888c2d00d619a584d259c",
+    "createdAt": "2025-11-06T08:34:02.268Z",
+    "updatedAt": "2025-11-06T08:34:02.268Z"
+  }
+]

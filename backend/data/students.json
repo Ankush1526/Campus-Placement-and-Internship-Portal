@@ -1,0 +1,14 @@
+[
+  {
+    "email": "ankushdubey1016@gmail.com",
+    "password": "$2a$10$mMW0SOgagktd4Agp.P7QmueSODvniUvWV/73uq8YoHSIfuDeUwHbu",
+    "fullName": "Ankush Kumar",
+    "userType": "student",
+    "college": "MU",
+    "course": "Civil Engineering",
+    "graduationYear": "2026",
+    "_id": "c3a2e4ab4cab19a54ab3bc2",
+    "createdAt": "2025-11-05T15:38:19.458Z",
+    "updatedAt": "2025-11-05T15:38:19.459Z"
+  }
+]
